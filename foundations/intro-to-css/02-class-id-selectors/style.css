@@ -1,1 +1,20 @@
 /* Add CSS Styling */
+.odd {
+    background-color: rgb(255, 151, 208);
+    font-family: Verdana, 'DejaVu sans', sans-serif;
+}
+
+.adj {
+    font-size: 24px;
+}
+
+#div01 {
+    color: #00f;
+    font-size: 36px;
+}
+
+#div02 {
+    background-color: hsl(113, 100%, 70%);
+    font-weight: bold;
+/*You can use a class to share the same font size and reduce duplicate code*/
+}
